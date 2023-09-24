@@ -1,3 +1,4 @@
+#el diccionario de datos se estrutura entre llaves
 diccionario= {'Nombre': 'Ezequiel',
               'Apellido':'Rosario',
               'Cancion':"Amor prohibido",
